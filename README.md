@@ -8,6 +8,21 @@ npm install --save-dev tachyons-grid
 ```
 or download the css on github and include in your project.
 
+## The Code
+```
+
+@include break(not-small) {
+
+}
+
+@include break(medium) {
+
+}
+
+@include break(large) {
+
+```}
+
 ## Author
 
 [http://mrmrs.cc - Entire internet gateway to all things mrmrs](http://mrmrs.cc)
