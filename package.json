@@ -1,12 +1,12 @@
 {
   "name": "tachyons-grid",
   "version": "0.2.2",
-  "style": "grid.css",
-  "homepage": "http://mrmrs.io/tachyons-grid",
-  "description": "Performance based sass module.",
+  "style": "tachyons-grid.css",
+  "homepage": "http://github.com/mrmrs/tachyons-grid",
+  "description": "Performance based css module.",
   "keywords": [
     "oocss",
-    "sass",
+    "css",
     "css",
     "rwd",
     "design",
