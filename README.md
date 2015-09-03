@@ -1,18 +1,21 @@
-# TACHYONS-GRID
+# tachyons-grid
+0.3.0
 
-http://tachyons.io
-
-Work In Progress. Pull requests and open issues welcome.
+Performance based css module.
 
 ## Install
 ```
 npm install --save-dev tachyons-grid
 ```
-or download the css on github and include in your project.
+
+or download the css on github and include in your project:
+
+```
+git clone git@github.com:mrmrs/tachyons-grid
+```
 
 ## The Code
 ```
-
 @include break(not-small) {
 
 }
@@ -23,7 +26,9 @@ or download the css on github and include in your project.
 
 @include break(large) {
 
-```}
+}
+
+```
 
 ## Author
 
